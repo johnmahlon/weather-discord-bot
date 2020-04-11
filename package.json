@@ -1,0 +1,26 @@
+{
+  "name": "weather-discord-bot",
+  "version": "1.0.0",
+  "description": "sends weather info to discord channel",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmahlon/weather-discord-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "John Peden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnmahlon/weather-discord-bot/issues"
+  },
+  "homepage": "https://github.com/johnmahlon/weather-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
